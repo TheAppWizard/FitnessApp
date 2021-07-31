@@ -2,7 +2,7 @@
 Fitness App Card made with SwiftUI.
 
 # Animation Credits
-Dribble - [Aidar Robin!](https://dribbble.com/shots/6599472-Character-Walk-Cycle)
+## Dribble - [Aidar Robin](https://dribbble.com/shots/6599472-Character-Walk-Cycle)
 
 
 # Result / Output
